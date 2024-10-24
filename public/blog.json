@@ -1,0 +1,78 @@
+{
+    
+   "products": [
+        {
+          "id": 1,
+          "name": "Wireless Headphones",
+          "image": "https://i.ibb.co.com/Df8kwMy/6991426.jpg",
+          "description": "High-quality wireless headphones with noise-cancellation and long battery life.",
+          "price": 99.99,
+          "category": "Electronics",
+          "isFeature": true
+        },
+        {
+          "id": 2,
+          "name": "Smart Watch",
+          "image": "https://i.ibb.co.com/xJRphLP/7111966.jpg",
+          "description": "Stylish smart watch with fitness tracking and mobile notifications.",
+          "price": 149.99,
+          "category": "Wearables",
+          "isFeature": false
+        },
+        {
+          "id": 3,
+          "name": "Gaming Laptop",
+          "image": "https://i.ibb.co.com/Tc32rXM/7139091.jpg",
+          "description": "Powerful gaming laptop with 16GB RAM, 512GB SSD, and NVIDIA graphics.",
+          "price": 1299.99,
+          "category": "Computers",
+          "isFeature": true
+        },
+        {
+          "id": 4,
+          "name": "Bluetooth Speaker",
+          "image": "https://i.ibb.co.com/bNmdLcc/8359682.jpg",
+          "description": "Portable Bluetooth speaker with excellent sound quality and waterproof design.",
+          "price": 49.99,
+          "category": "Audio",
+          "isFeature": false
+        },
+        {
+          "id": 5,
+          "name": "4K TV",
+          "image": "https://i.ibb.co.com/MpjwW14/8399388.jpg",
+          "description": "55-inch 4K Ultra HD TV with smart features and vibrant display.",
+          "price": 699.99,
+          "category": "Televisions",
+          "isFeature": true
+        },
+        {
+          "id": 6,
+          "name": "Running Shoes",
+          "image": "https://i.ibb.co.com/Mp5NCjJ/8997677.jpg",
+          "description": "Comfortable and lightweight running shoes for daily workouts.",
+          "price": 79.99,
+          "category": "Sportswear",
+          "isFeature": false
+        },
+        {
+          "id": 7,
+          "name": "Electric Toothbrush",
+          "image": "https://i.ibb.co.com/hyhT540/9878219.jpg",
+          "description": "Rechargeable electric toothbrush with multiple brushing modes.",
+          "price": 29.99,
+          "category": "Personal Care",
+          "isFeature": false
+        },
+        {
+          "id": 8,
+          "name": "Smartphone",
+          "image": "https://i.ibb.co.com/Mp5NCjJ/8997677.jpg",
+          "description": "Latest smartphone with 5G connectivity and a stunning display.",
+          "price": 899.99,
+          "category": "Mobile Phones",
+          "isFeature": true
+        }
+      ]
+      
+}
